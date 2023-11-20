@@ -9,7 +9,7 @@ email: bhanson8@asu.edu
 twitter: 
 github: 
 scholar: 
-image: "{{ BASE_PATH }}/assets/images/team/ben.PNG"
+image: /assets/images/team/ben.PNG
 # cv: /assets/pdfs/David-Vandian-resume.pdf
 alum: true
 ---
