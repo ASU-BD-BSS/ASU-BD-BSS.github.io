@@ -77,7 +77,7 @@ JB :
   #   http://s3.amazonaws.com/yoursite/themes/watermelon
   #   /assets
   #
-  ASSET_PATH : false
+  ASSET_PATH : "https://asu-bd-bss.github.io/flyerwebsite/assets"
   #ASSET_PATH: "/flyerwebsite/assets"
   #JB:
     #BASE_PATH: "/flyerwebsite"
