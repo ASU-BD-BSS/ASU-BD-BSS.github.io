@@ -9,7 +9,7 @@ highlighter: rouge
 markdown: kramdown
 
 repository: https://asu-bd-bss.github.io/flyerwebsite
-#baseurl: "/flyerwebsite"
+baseurl: "/flyerwebsite"
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
@@ -77,7 +77,7 @@ JB :
   #   http://s3.amazonaws.com/yoursite/themes/watermelon
   #   /assets
   #
-  ASSET_PATH : https://asu-bd-bss.github.io/flyerwebsite/assets
+  ASSET_PATH : FALSE
   #ASSET_PATH: "/flyerwebsite/assets"
   #JB:
     #BASE_PATH: "/flyerwebsite"
