@@ -9,7 +9,7 @@ email: pzhang84@asu.edu
 twitter: 
 github: 
 scholar: 
-image: ({{ BASE_PATH }}/assets/images/team/nopic.png)
+image: /assets/images/team/nopic.png
 cv: 
 alum: false
 ---
