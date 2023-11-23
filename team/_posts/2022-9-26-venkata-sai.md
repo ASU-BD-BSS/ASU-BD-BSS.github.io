@@ -9,7 +9,7 @@ email: vmirthin@asu.edu
 twitter: 
 github: 
 scholar: 
-image: /assets/images/team/nopic.png
+image: /assets/images/team/venkata.png
 # cv: /assets/pdfs/David-Vandian-resume.pdf
 alum: true
 ---
