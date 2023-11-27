@@ -1,5 +1,6 @@
 #!/bin/bash
-
+#have latest copy, if made changes from mobile
+git pull
 # Add all changes
 git add .
 
