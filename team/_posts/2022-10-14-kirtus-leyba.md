@@ -9,7 +9,7 @@ email: kleyba@asu.edu
 twitter: 
 github: 
 scholar: 
-image: /assets/images/team/nopic.png
+image: /assets/images/team/kirtus.png
 cv: 
 alum: false
 ---
