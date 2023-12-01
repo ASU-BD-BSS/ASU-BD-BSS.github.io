@@ -9,7 +9,7 @@ email: bkujath@asu.edu
 twitter: 
 github: 
 scholar: 
-image: /assets/images/team/nopic.png
+image: /assets/images/team/beau.png
 cv: 
 alum: false
 ---
