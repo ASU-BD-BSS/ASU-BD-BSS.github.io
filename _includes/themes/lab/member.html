@@ -113,7 +113,7 @@
 					{% if paper.embargo %}
 					<p>{{ paper.title }}
 					{% else %}
-					<p style="color:green"><a href="{{ paper.url }}" class="off" target="_blank">{{ paper.title }}</a>
+					<p style="color:rgb(55, 13, 207)"><a href="{{ paper.url }}" class="off" target="_blank">{{ paper.title }}</a>
 					{% endif %}
 				{% endif %}
 			{% endfor %}
@@ -131,7 +131,7 @@
 			<div class="spacer"></div>
 			{% for post in site.categories.blog %}
 				{% if member.handle == post.author_handle %}
-					<p style="color:green"><a href="{{ post.url }}" class="off" target="_blank">{{ post.title }}</a>
+					<p style="color:rgb(68, 39, 194)"><a href="{{ post.url }}" class="off" target="_blank">{{ post.title }}</a>
 				{% endif %}
 			{% endfor %}
 		{% endif %}	
