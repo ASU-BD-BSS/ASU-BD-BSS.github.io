@@ -3,7 +3,7 @@ layout: paper
 title: "Evolving Adaptive Therapies for Cancer"
 year: "2024-25"
 shortref: "Joshua Daymude"
-authors: "Joshua Daymude, Siva Katta"
+authors: "Joshua Daymude"
 category: paper
 published: true
 tags: []
