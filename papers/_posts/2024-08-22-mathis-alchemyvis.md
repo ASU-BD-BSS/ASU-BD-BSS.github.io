@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Visualizing AlChemy: Tools for the simulation and visualization of artificial chemistry"
-year: "2024-25"
+year: "2025-26"
 shortref: "Cole Mathis"
 authors: "Cole Mathis, Devansh Patel"
 category: paper
