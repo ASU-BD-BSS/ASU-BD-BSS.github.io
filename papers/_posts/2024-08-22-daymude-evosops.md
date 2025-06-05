@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "EvoSOPS: Evolving Collective Behavior"
-year: "2024-25"
+year: "2025-26"
 shortref: "Joshua Daymude"
 authors: "Joshua Daymude, Devendra Parkar"
 category: paper

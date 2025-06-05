@@ -1,11 +1,11 @@
 ---
 layout: paper
 title: "Network Genie"
-year: "2024-25"
+year: "2025-26"
 shortref: "Jedidiah Crandall"
-authors: "Jedidiah Crandall, Beau Kujath"
+authors: "Jedidiah Crandall, Beau Kujath, Sana Habib, and Benjamin Mixon-Baca"
 category: paper
-published: false
+published: true
 tags: []
 ---
 {% include JB/setup %}
@@ -25,4 +25,4 @@ Mobile app development, Network security research, Operating systems research
 
 # Skills Gained
 
-Real-world network security info, potenital Android development skills, low level-packet knowledge, general research skills
+Real-world network security info, potenital Android development skills, low level-packet knowledge, general research skills.

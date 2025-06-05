@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Evolving Adaptive Therapies for Cancer"
-year: "2024-25"
+year: "2025-26"
 shortref: "Joshua Daymude"
 authors: "Joshua Daymude"
 category: paper
