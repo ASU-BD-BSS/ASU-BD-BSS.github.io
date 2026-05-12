@@ -1,9 +1,9 @@
 ---
 layout: paper
-title: "Correctness, Security, and Performance of IPv4 Selection Under Bursty Traffic Conditions"
-year: "2025-26"
+title: "IPv4 Identifier Selection Under Bursty Traffic Conditions"
+year: "2025-27"
 shortref: "Joshua Daymude"
-authors: "Joshua Daymude, Sean Bergen"
+authors: "Joshua Daymude, Holly Bergen"
 category: paper
 published: true
 tags: []
@@ -18,12 +18,12 @@ A recent paper from the BSS center collects this history of exploits and the sub
 
 # Research Goals
 
-The scholar team will (1) read and understand the BSS survey paper on IPID selection techniques and their correctness, security, and performance, (2) explore background literature on alternative mathematical models of network traffic beyond simple Poisson distributions, including Markov Modulated Poisson Processes and autoregression models, (3) adapt existing mathematical analyses and simulation experiments of IPID selection correctness and security to these new network traffic models, and (4) carefully compare the updated results to the originals, providing actionable insights if any of the recommendations appear to change.
+In AY25-26, the Biocomputing Scholars team successfully constructed Markov-Modulated Poison Process (MMPP)-based models of bursty network traffic for small datasets and derived IPID correctness and security probabilities that generalize to these models. It remains to (1) construct these models for large, realistic network traces, (2) evaluate and interpret the resulting IPID correctness and security properties, and (3) prepare a manuscript for publication.
 
 # Skills Needed
 
-Probability theory; Python; ability to read mathematically formal model descriptions
+Probability theory; Python; ability to read mathematically formal model descriptions; some networking familiarity
 
 # Skills Gained
 
-Mixed stochastic modeling; numerical methods; parallel computation in Python; network security and privacy
+Mixed stochastic modeling; numerical methods; parallel computation in Python; network security and privacy; academic paper writing
