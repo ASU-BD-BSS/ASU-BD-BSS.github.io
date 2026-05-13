@@ -2,8 +2,8 @@
 layout: paper
 title: "Disease Classfication from TCR/BCR Repertoire"
 year: "2026-27"
-shortref: "<Heewook Lee>"
-authors: "<Sonny Mousavi>, <Name of Graduate Student Mentor>"
+shortref: "Heewook Lee"
+authors: "Heewook Lee, Sonny Mousavi"
 category: paper
 published: true
 tags: []
