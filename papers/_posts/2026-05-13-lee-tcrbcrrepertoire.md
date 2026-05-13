@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Disease Classfication from TCR/BCR Repertoire"
+title: "Disease Classification from TCR/BCR Repertoire"
 year: "2026-27"
 shortref: "Heewook Lee"
 authors: "Heewook Lee, Sonny Mousavi"
@@ -20,7 +20,7 @@ The main goal of the project is to develop a computational framework for disease
 
 # Skills Needed
 
-Experience of developing ML/AI models
+Experience developing ML/AI models
 
 # Skills Gained
 
