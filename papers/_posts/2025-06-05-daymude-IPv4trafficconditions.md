@@ -10,6 +10,8 @@ tags: []
 ---
 {% include JB/setup %}
 
+**Note**: This project is continuing from AY25-26 and is not accepting new applicants.
+
 # Background
 
 The Internet is built on top of streams of packets being routed from sources to destinations. Whenever an IPv4 packet is too large for the next link of its routing path, it is "fragmented" into smaller pieces; the destination machine then "reassembles" these fragments into the original packet. In order to unambiguously determine which fragments should be reassembled into which packet, the source machine assigns each packet an "IP identifier (IPID)", which is a 16-bit unsigned integer. Despite its innocuous purpose, the IPID now has a 27-year history of being abused to poison DNS caches, hijack TCP connections, launch denial of service attacks, scan ports, detect and measure connections, and detect Internet censorship, all from off-path vantage points requiring the attacker to have nothing more than an active Internet connection. 
