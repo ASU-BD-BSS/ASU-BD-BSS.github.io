@@ -27,7 +27,7 @@ Recent work has expanded these simulations to large language models, and researc
 
 # Research Goals
 
-This project seeks to replicate prior findings regarding LLMs' performance in iterated prisoner's dilemma tournaments.
+This project seeks to replicate prior findings regarding LLMs' performance in iterated prisoner's dilemma tournaments, beginning with a systematic literature review of relevant prior work on the topic.
 We will also include LLMs not previously studied and compare the performance of LLMs from different countries.
 LLMs' post-training may vary depending on the cultural and legal context in which they were developed, and this may affect the strategies they choose when playing the iterated prisoner's dilemma.
 
@@ -39,4 +39,4 @@ Knowledge of game theory would be helpful but is not required.
 
 # Skills Gained
 
-Experiment design; literature review; academic paper writing
+Experiment design; systematic literature review; academic paper writing
